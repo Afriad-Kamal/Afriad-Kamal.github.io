@@ -4,3 +4,8 @@
     font-weight: 400;
     src: local('Brittany Signature'), url('BrittanySignature-LjyZ.woff') format('woff');
 }
+
+@font-face {
+    font-family: "Aquatico";
+    src: url("Aquatico-Regular.otf") format("opentype");
+}
